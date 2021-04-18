@@ -13,7 +13,7 @@
  }
 
 
-var moviekind = prompt('Hello, what kind of movies do you prefer, action or documentary ?');
+var moviekind = prompt('Hello, what kind of movies do you prefer , action or documentary ?');
 
 
 while(moviekind !== 'action'&& moviekind !== 'documentary'){
