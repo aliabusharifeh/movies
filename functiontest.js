@@ -7,7 +7,7 @@ function getUserName() {
 
 
 var pntname = function () {
-console.log(name);
+(name);
  }
 getUserName();
  //call the function
